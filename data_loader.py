@@ -1,5 +1,4 @@
 import pandas as pd
-import pickle
 
 def load_city_data(city, cities):
     """加载选定城市的 POI、小区和图片数据"""
