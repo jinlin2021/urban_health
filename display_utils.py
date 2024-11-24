@@ -2,7 +2,6 @@ import streamlit as st
 import requests
 from PIL import Image
 from io import BytesIO
-import random
 
 
 def display_residential_info(residential_df, image_df, selected_residential):
