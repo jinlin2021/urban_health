@@ -1,0 +1,8 @@
+scikit-learn==1.3.2
+pydeck==0.9.1
+requests== 2.32.3
+pandas==2.0.3
+<<<<<<< HEAD
+streamlit==1.39.0
+=======
+>>>>>>> 50e9e73c3fba574eae1f7d533fbc228ef9f37646
