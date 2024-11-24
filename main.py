@@ -13,7 +13,6 @@ cities = {
     "beijing": {"lat": 39.9042, "lon": 116.4074, "poi_file": "beijing_POI_sampled.csv", "residential_file": "sampled_residential.csv", "image_file": "selected_residential_image.csv", "similarity_file": "beijing_similarity_sampled.csv", "street_health_file1": "街道的kmeans聚类情况_小修.html","street_health_file2": "60岁以上老年分级图_小修.html"},
     "shanghai": {"lat": 31.2304, "lon": 121.4737, "poi_file": "shanghai_POI.csv", "residential_file": "shanghai_residential.csv", "image_file": "shanghai_image.csv", "similarity_file": "shanghai_similarity.parquet"},
     "other city":{},
-    "disease":{"MCI":"2020年北京街道患病人口分布_MCI.html","Hypertension":"2020年北京街道患病人口分布_Hypertension.html","Diabetes":"2020年上海街道患病人口分布_Diabetes.html","MDD":"2020年上海街道患病人口分布_MDD.html"}
 }
 
 # 疾病信息字典
