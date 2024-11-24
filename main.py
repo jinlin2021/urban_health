@@ -150,7 +150,7 @@ with page_container.container():
             These conditions are closely linked to community environmental factors, including green space coverage, healthcare facility distribution, transportation convenience, and residents’ socioeconomic conditions. 
             </p>
             <p>
-            The project employs a <strong>graph-based multi-modal representation learning framework</strong>, leveraging rich multi-modal information such as community photos, textual reviews, and surrounding points of interest to create neighborhood embeddings for chronic disease prevalence prediction. By incorporating contrastive learning and cross-modal modeling techniques, our platform achieves enhanced accuracy, improving baseline performance by <strong>65%</strong>. 🚀
+            The project employs a <strong>graph-based multi-modal representation learning framework</strong>, leveraging rich multi-modal information such as community photos, textual reviews, and surrounding points of interest to create neighborhood embeddings for chronic disease prevalence prediction. By incorporating contrastive learning and cross-modal modeling techniques, our platform achieves enhanced accuracy, improving baseline performance by <strong>28%</strong>. 🚀
             </p>
             """,
             unsafe_allow_html=True,
